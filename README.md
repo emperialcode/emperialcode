@@ -23,6 +23,13 @@ A small, standalone **PHP domain-service demo** for reservation price calculatio
 
 [**View source**](https://github.com/emperialcode/booking-pricing-rules/blob/main/src/BookingPriceCalculator.php) · [**Read the documentation**](https://github.com/emperialcode/booking-pricing-rules#readme)
 
+**[Ledger — Vue Admin Workspace →](https://github.com/emperialcode/vue-admin-workspace)**  
+A frontend-only **Vue 3 + TypeScript admin workspace** with invoice search, filtering, sorting, client-side form validation and CSV export. Uses fictional demo data and no production integrations.
+
+`Vue 3` · `TypeScript` · `Vite` · `Tailwind CSS` · `Vitest`
+
+[**View the project**](https://github.com/emperialcode/vue-admin-workspace) · [**Read the documentation**](https://github.com/emperialcode/vue-admin-workspace#readme)
+
 ### Engineering approach
 
 1. Clarify the business problem, scope, and acceptance criteria.
