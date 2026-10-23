@@ -28,7 +28,7 @@ A frontend-only **Vue 3 + TypeScript admin workspace** with invoice search, filt
 
 `Vue 3` · `TypeScript` · `Vite` · `Tailwind CSS` · `Vitest`
 
-[**View the project**](https://github.com/emperialcode/vue-admin-workspace) · [**Read the documentation**](https://github.com/emperialcode/vue-admin-workspace#readme)
+[**Try the live demo**](https://emperialcode.github.io/vue-admin-workspace/) · [**View the project**](https://github.com/emperialcode/vue-admin-workspace) · [**Read the documentation**](https://github.com/emperialcode/vue-admin-workspace#readme)
 
 ### Engineering approach
 
