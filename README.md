@@ -1,41 +1,45 @@
-# Hi, I'm Arif 👋
+# Arif Mazi
+**Full Stack Developer · Laravel & Vue.js · SaaS & Business Logic**
 
-### Full Stack Developer · Business Logic & SaaS Engineering
+I build business-focused web applications where **reliable backend logic**, clear APIs, and intuitive workflows matter.
 
-I design and develop business-focused web applications, with an emphasis on **reliable backend logic, maintainable architecture, and intuitive user experiences**.
+My work centers on Laravel/PHP, Vue.js/TypeScript, relational data modeling, and domain challenges such as booking, scheduling, pricing, and business operations.
 
-My core stack includes **Laravel, PHP, Vue.js, TypeScript, and MySQL**. I particularly enjoy solving challenging workflows involving pricing, scheduling, reservations, API integrations, and operational systems.
+### What I can help with
 
-## What I work on
+| Backend & integrations | Frontend & product |
+| --- | --- |
+| Laravel / PHP applications | Vue 3 / TypeScript interfaces |
+| REST APIs and third-party integrations | Forms, validation and admin workflows |
+| Business rules, pricing and data modeling | UX-driven feature improvements |
+| Refactoring and maintainability | SaaS product development |
 
-- **Backend engineering:** Laravel applications, REST APIs, data modeling, validation, and business rules
-- **Frontend development:** Vue.js, TypeScript, responsive interfaces, and complex forms
-- **SaaS & business systems:** multi-step workflows, permissions, pricing logic, and integrations
-- **Architecture & quality:** maintainable code, testing, and careful iteration on existing applications
+### Featured open-source work
 
-## Technology focus
+**[Booking Pricing Rules →](https://github.com/emperialcode/booking-pricing-rules)**  
+A small, standalone **PHP domain-service demo** for reservation price calculation, per-guest rates, capacity validation, and itemized totals. Uses integer minor units for monetary calculations and includes basic tests.
 
-`Laravel` · `PHP` · `Vue.js` · `TypeScript` · `JavaScript` · `MySQL` · `REST APIs` · `Git` · `GitHub`
+`PHP 8.2+` · `Business Logic` · `Validation` · `Pricing` · `Testing`
 
-## Selected areas of experience
+[**View source**](https://github.com/emperialcode/booking-pricing-rules/blob/main/src/BookingPriceCalculator.php) · [**Read the documentation**](https://github.com/emperialcode/booking-pricing-rules#readme)
 
-**Booking & product management** — options, scheduling, guest policies, supplier costs, and pricing workflows.
+### Engineering approach
 
-**Business applications** — transactional workflows, multi-currency concepts, data models, and administrative tools.
+1. Clarify the business problem, scope, and acceptance criteria.
+2. Model domain rules and edge cases before implementation.
+3. Build maintainable solutions with clear separation of concerns.
+4. Verify critical behavior and document changes.
 
-**API integration** — service boundaries, third-party integrations, and automation-oriented workflows.
+### Areas of experience
 
-> Some of my commercial project repositories are private. I share public examples and technical write-ups where licensing and confidentiality permit.
+- **Booking and product workflows:** scheduling, guest policies, supplier costs, and pricing models
+- **SaaS and business systems:** administrative tools, transactional workflows, and multi-step processes
+- **APIs and integrations:** backend service boundaries and automation-oriented workflows
 
-## How I approach a project
+> Some commercial repositories are private. Public examples are independent demonstrations and do not expose proprietary code or data.
 
-1. Understand the underlying business problem and acceptance criteria.
-2. Define clear data models, API contracts, and edge cases.
-3. Implement the smallest maintainable solution that solves the problem.
-4. Test critical workflows and document the handoff.
+### Open to freelance collaboration
 
-## Open to collaboration
+Available for scoped **Laravel, Vue.js, REST API, SaaS, and business-logic** projects.
 
-I'm interested in focused freelance work involving **Laravel, Vue.js, SaaS applications, API integrations, and business logic improvements**.
-
-If you have a technical challenge, feel free to start a conversation through GitHub.
+For technical discussions, you can reach me through GitHub.
