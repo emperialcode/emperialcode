@@ -1,4 +1,4 @@
-# Arif Mazi
+# Arif MAZI
 **Full Stack Developer · Laravel & Vue.js · SaaS & Business Logic**
 
 I build business-focused web applications where **reliable backend logic**, clear APIs, and intuitive workflows matter.
